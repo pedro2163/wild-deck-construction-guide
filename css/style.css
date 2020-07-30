@@ -1,0 +1,30 @@
+body{
+    background-color: #2B2B2B;
+    color: white;
+}
+
+.notnescessary{
+    color: orange;
+}
+
+.dontcraft{
+    color: darkred;
+    text-decoration: line-through;
+}
+
+core{
+    color: darkgreen;
+}
+
+.better{
+    text-decoration: underline;
+}
+
+.possible_replacement_img{
+    height: 300px;
+}
+
+.hover_img span { position:relative; }
+.hover_img span>span { position:absolute; display:none; z-index:99; }
+.hover_img span:hover span { display:block; }
+
