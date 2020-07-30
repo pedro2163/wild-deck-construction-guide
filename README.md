@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to this Wild Deck Construction Guide
 
-You can use the [editor on GitHub](https://github.com/pedro2163/wild-deck-construction-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+INTRO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does it work?
 
-### Markdown
+I propose some possible replacement cards based on this meta and why those cards can be useful.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In red: don’t craft those cards, only add them if you have them in your collection.
 
-```markdown
-Syntax highlighted code block
+In orange: I would say don’t craft those cards, but if you really need them go for it.
 
-# Header 1
-## Header 2
-### Header 3
+In green: must-to-have cards, I still propose a replacement but those cards really make a difference.
 
-- Bulleted
-- List
+When you see *Choose* *one* *in* *the* *** *version* it’s because you have the choice to choose one of the cards listed there in the deck version mentioned. For the decklist I was obligated to choose one for you, but you can change it following that section! 
 
-1. Numbered
-2. List
+At the right of the Budget deck you will see some numbers at the same level of the cards to change. That number is the priority order, so #1 is the first change to make (and the first card to remove). If you have in your collection, for example, the #3 card to replace you need to add it! Don’t wait to have the #1 and #2 to add it after. If this happens, don’t remove #1 and add #3, you still need to remove #3 and add #3!
 
-**Bold** and _Italic_ and `Code` text
+Normally if you can build the Semi Budget version you have a very strong deck, the final version it’s just a bonus.
 
-[Link](url) and ![Image](src)
-```
+The Budget decks don’t have Epics and Legendaries unless they are Really a need in the deck.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[If you want to know which cards you can dust, just see this collection. I recommend you to keep every card in that collection.](https://www.hearthpwn.com/members/Pedro21631330/collection)
 
-### Jekyll Themes
+Enjoy :)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedro2163/wild-deck-construction-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Decks
+
+| Dust | Best Decks | Great Decks | Good Decks | Off-Meta Decks |
+| :--- | :---: | :---: | :---: | ---: |
+| Cheap Decks  | | | | |
+| NAME Decks  | [Pirate Warrior](html/pirate-warrior/pirate-warrior.html) | | | |
+| Expensive Decks  | | | | |
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to support me...
+
+If you want to contact me you can send me a message on [Twitter](https://twitter.com/pedro2163hs).
