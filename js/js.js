@@ -1,13 +1,6 @@
-function myFunction() {
-    var copyText = document.getElementById("clicToCopy");
-
-    /* Select the text field */
+function clicToCopy() {
+    var copyText = document.getElementById("deckCode");
     copyText.select();
-    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
-
-    /* Copy the text inside the text field */
+    copyText.setSelectionRange(0, 99999)
     document.execCommand("copy");
-
-    /* Alert the copied text */
-    alert("Copied the text: " + copyText.value);
 }
