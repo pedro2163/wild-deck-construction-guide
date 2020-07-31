@@ -29,8 +29,13 @@ Enjoy :)
 | Dust | Best Decks | Great Decks | Good Decks | Off-Meta Decks |
 | :--- | :---: | :---: | :---: | ---: |
 | Cheap Decks  | | | | |
-| NAME Decks  | [Pirate Warrior](html/pirate-warrior/pirate-warrior.html) | | | |
+| NAME Decks  | [Pirate Warrior](html/pirate_warrior/pirate_warrior.html) | | | |
+| NAME Decks  | [Odd Demon Hunter](html/odd_demon_hunter/odd_demon_hunter.html) | | | |
 | Expensive Decks  | | | | |
+
+### Thanks to
+
+...
 
 ### Support or Contact
 
