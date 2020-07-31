@@ -15,6 +15,10 @@ html{
     margin: auto;
 }
 
+a:visited{
+    color:orangered;
+}
+
 footer{
     text-align: center;
 }
