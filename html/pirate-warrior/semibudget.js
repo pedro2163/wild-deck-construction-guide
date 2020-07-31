@@ -1,4 +1,4 @@
-function clicToCopy() {
+function clicToCopySemiBudget() {
     var copyText = document.getElementById("deckCodeSemiBudget");
     copyText.select();
     copyText.setSelectionRange(0, 99999)
