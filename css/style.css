@@ -56,11 +56,6 @@ core{
     height: 300px;
 }
 
-.deck_pictures{
-    margin: auto;
-    width: 84%;
-}
-
 .hover_img span { position:relative; }
 .hover_img span>span { position:absolute; display:none; z-index:99; }
 .hover_img span:hover span { display:block; }
