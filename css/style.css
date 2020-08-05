@@ -90,6 +90,10 @@ th {
 .core{
     color: green;
 }
+em{
+    color: red;
+    font-style: normal;
+}
 
 /*Image Hover*/
 .possible_replacement_img{
