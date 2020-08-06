@@ -8,6 +8,12 @@
     <script src="budgetvelen.js"></script>
     <script src="semibudgetvelen.js"></script>
     <script src="finalvelen.js"></script>
+    <script src="budgetdragon.js"></script>
+    <script src="semibudgetdragon.js"></script>
+    <script src="finaldragon.js"></script>
+    <script src="finalnone.js"></script>
+    <script src="finaltogwaggle.js"></script>
+    <script src="finalquest.js"></script>
     <link rel="icon" href="./../../favicon.ico" type="image/x-icon">
 </head>
 <body>
@@ -33,6 +39,7 @@
                     <th>Dragon</th>
                     <th>Velen</th>
                     <th>Togwaggle</th>
+                    <th>Quest</th>
                     <th>None</th>
                 </tr>
                 <tr>
@@ -65,7 +72,7 @@
                         ></span></span></li>
                         <br>
                         <li> <span>Prohet Velen<span><img class="possible_replacement_img"
-                                                          src="../../cards/prohet_velen.png"
+                                                          src="../../cards/prophet_velen.png"
                         ></span></span></li>
                         <br>
                         <li> <span>Mind Blast<span><img class="possible_replacement_img"
@@ -102,6 +109,16 @@
                         <li> <span>Drakonid Operative<span><img class="possible_replacement_img"
                                                                 src="../../cards/drakonid_operative.png"
                         ></span></span></li>
+                    </td>
+                    <td>
+                        <li> <span>Awaken the Makers<span><img class="possible_replacement_img"
+                                                               src="../../cards/awaken_the_makers.png"
+                        ></span></span></li>
+                        <li> <span>Dead Ringer<span><img class="possible_replacement_img"
+                                                         src="../../cards/dead_ringer.png"
+                        ></span></span></li>
+                        <br>
+                        For the other cards you can choose like two version: Control N'zoth or Combo with lots of draw.
                     </td>
                     <td>If you chose this you can choose more cards in the lists below</td>
                 </tr>
@@ -208,11 +225,11 @@
                 ></span></span></li>
 
                 <li><span>Cobalt Spellkin<span><img class="possible_replacement_img"
-                                                    src="../../cards/cobalt_spellkin.png.png"
+                                                    src="../../cards/cobalt_spellkin.png"
                 ></span></span></li>
 
                 <li><span>Mindflayer Kaahrj<span><img class="possible_replacement_img"
-                                                      src="../../cards/mindflayer_kaahrj.png.png"
+                                                      src="../../cards/mindflayer_kaahrj.png"
                 ></span></span></li>
             </ul>
 
@@ -261,8 +278,8 @@
                                                          src="../../cards/hemet_jungle_hunter.png"
                 ></span></span></li>
 
-                <li><span>Mirrage Caller<span><img class="possible_replacement_img"
-                                                   src="../../cards/mirrage_caller.png"
+                <li><span>Mirage Caller<span><img class="possible_replacement_img"
+                                                   src="../../cards/mirage_caller.png"
                 ></span></span></li>
             </ul>
 
@@ -274,6 +291,19 @@
             </ul>
 
             <h3>Cards to consider in the Quest package</h3>
+            <p>This package is the less good. It can be hard to win games sometimes with this one. You have two choices:
+                1, go with <span>N'zoth the Corruptor<span><img class="possible_replacement_img"
+                                                                src="../../cards/n'zoth_the_corruptor.png"
+                ></span></span> and full of big deathrattle minions or 2, try to finish quickly the quest, <span>Amara Warden of Hope<span><img
+                        class="possible_replacement_img"
+                        src="../../cards/amara_warden_of_hope.png"
+                ></span></span> will
+                be a second <span>Reno Jackson<span><img class="possible_replacement_img"
+                                                         src="../../cards/reno_jackson.png"
+                ></span></span> and you will try to win with the normal combo. So, just type
+                <strong>deathrattle</strong>
+                in the Hearthstone search bar and add anything you want. Just be sure to have enough deathrattle minions
+                to fill your quest!</p>
             <ul></ul>
 
             <h3>Other cards</h3>
@@ -296,8 +326,8 @@
                                                                        src="../../cards/witchwood_piper.png"
                 ></span></span> and/or want to add <span>Zola the Gorgon<span><img class="possible_replacement_img"
                                                                                    src="../../cards/zola_the_gorgon.png"
-                ></span></span> and <span>Twilight Oracle<span><img class="possible_replacement_img"
-                                                                    src="../../cards/twilight_oracle.png"
+                ></span></span> and <span>Coldlight Oracle<span><img class="possible_replacement_img"
+                                                                     src="../../cards/coldlight_oracle.png"
                 ></span></span>
                 </li>
             </ul>
@@ -334,7 +364,7 @@
                 <h2>Budget Velen:</h2>
                 <input type="text"
                        value="AAEBAafDAx77AZcCnAKhBLkGyQaKB/YH+AelCdMK1grXCvIM+wz3E7cXg7sCtbsCt7sCw8ECkNMC6PkCl4cDmJsDmakD2KwD8qwDk7oDr7oDAAA="
-                       id="deckCodeBudget">
+                       id="deckCodeBudgetVelen">
                 <button onclick="clicToCopyBudgetVelen()">Copy deck code</button>
             </div>
             <br>
@@ -342,7 +372,7 @@
                 <h2>Semi Budget Velen:</h2>
                 <input type="text"
                        value="AAEBAa0GHgn7AZcCnAKhBLkGigf4B9MK1gryDPsM1hH3E8MWg7sCtbsC2LsC6r8Cw8EC0cEC8M8C6NACkNMCl4cDmJsD/KMDmakD8qwDk7oDAAA="
-                       id="deckCodeSemiBudget">
+                       id="deckCodeSemiBudgetVelen">
                 <button onclick="clicToCopySemiBudgetVelen()">Copy deck code</button>
             </div>
             <br>
@@ -350,7 +380,7 @@
                 <h2>Final Velen:</h2>
                 <input type="text"
                        value="AAEBAa0GHgmXApwCoQTtBbkG0wryDPsM1hH3E8MWg7sC2LsC6r8Cw8EC0cEC38QC08UCoM4C8M8C6NACkNMCl4cDmJsD2p0D/KMDmakD8qwD6b4DAAA="
-                       id="deckCodeFinal">
+                       id="deckCodeFinalVelen">
                 <button onclick="clicToCopyFinalVelen()">Copy deck code</button>
             </div>
             <br>
@@ -393,9 +423,9 @@
     <img src="finalvelen.png" alt="final velen">
 </div>
 <div class="deck_pictures">
-    <img src="finalTogwaggle.png" alt="final togwaggle">
-    <img src="finalNone.png" alt="final none">
-    <img src="finalQuest.png" alt="final quest">
+    <img src="finaltogwaggle.png" alt="final togwaggle">
+    <img src="finalnone.png" alt="final none">
+    <img src="finalquest.png" alt="final quest">
 </div>
 <footer><br>created by <a href="https://twitter.com/pedro2163hs">pedro2163</a></footer>
 </body>
