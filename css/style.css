@@ -19,10 +19,8 @@ html{
 }
 
 /*Header*/
-.header {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
+header {
+    padding: 5px;
 }
 
 /*Navigation bar*/
@@ -65,6 +63,18 @@ a:visited{
 /*Deck pictures*/
 .deck_pictures{
     text-align: center;
+}
+
+/*Index disposition*/
+.index{
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 1%;
+    display: table;
+}
+table{
+    width: 100%;
 }
 
 /*Table*/
