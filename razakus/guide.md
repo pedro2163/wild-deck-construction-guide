@@ -28,24 +28,44 @@ There are two packages right now: the normal and the dragon. Togwaggle and Gadge
 |:---:|
 |Add Loatheb|
 
-|Choose the last card|why?|
+|Choose the last card in the normal version|why?|
 |:---|---:|
-|||
-|||
-|||
+|Sphere of Sapience||
+|Mo'arg Artificier|Great with Holy Smite, Spirit Lash and Holy Nova, great vs Aggro|
+|Holy Nova|Great vs Aggro|
+|Shadow Word: Ruin|Great vs Warlock|
+
+|Choose the last card in the dragon version|why?|
+|:---|---:|
+|Raise Dead||
+|Sphre of Sapience||
+|Twilight Whelp||
+
+### Flexible cards
+|Normal|Dragon|
+|:---|:---:|---:|
+|Renew|Dragonfire Potion or Mass Hysteria|
+|Breath of the Infinite|Forbidden Words or Shadow Word: Pain|
+|Gluttonous Ooze||
 |||
 
 ### Possible cards
+|Normal|Dragon|
+|:---|:---:|---:|
+|Acolyte of Pain|Renew|
+|Golakka Crawler|Manafeeder Panthara|
+|Kobold Stickyfinger|Acolyte of Pain|
+|Zilliax|Platebreaker|
+|Emperor Thaurissan|Jepetto Joybuzz|
+|Jepetto Joybuzz|Zilliax|
+||Mindflayer Kaahrj|
+
+### Other cards
 The past versions of the normal deck had Dragonfire Potion or Soul Mirror. Now, because of Lorekeeper Poleklt, the deck has become really more aggressive: we don't have one turn to lose after we play him. We need to have Raza the Chained and Spawn of Shadows as soon as possible.
 
 You can consider Brann Bronzebeard. If you do, you can consider Coldlight Oracle, Zola the Gorgon and/or Cobalt Spellkin too,
 
 You can consider Witchwood Piper: you need to remove every 1-mana and 2-mana minions but the Great. It is not recommended if you see lot of aggro decks
-
-You can build the Gadgetzan Auctionner + Wild Pyromancer version by adding lots of little cost spells like Circle of Healing, Regenerate, Silence, Whispers of Evil, Binding Heal and Potion of Madness.
-
-### Flexible cards
-IMO Dirty Rat, Breath of the Infinite and Mass Dispell are flexible.
 
 ## Budget to Final
 I recommend you to build the Dragon Budget version because dragons are cheap and strong.
