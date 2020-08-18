@@ -93,13 +93,40 @@ Mindrender Illucia is the next card to craft because it's our Win Condition vers
 Dirty Rat, Loatheb and Gluttonous Ooze are the last cards to craft, they are really specific tech cards.
 
 ## Mulligan
-|Demon Hunter, Paladin, Shaman|Rogue, Warrior|Druid|Mage|Priest|Warlock|
-|:---|:---:|:---:|:--:|:---:|---:|
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+### Demon Hunter
+![Mulligan](mulligandemonhunter.png)
+
+### Druid
+Illucia is the card you need here. Try to mulligan for Draw if you don't have her. Don't keep three control cards, keep one, or two if you have The Coin.
+![Mulligan](mulligandruid.png)
+
+### Hunter
+![Mulligan](mulliganhunter.png)
+
+### Mage
+If you have Breath of the Infinite and Bloodmage Thalnos keep them both, if you don't have them, don't keep any.
+![Mulligan](mulliganmage.png)
+
+### Paladin
+Only keep Mass Dispell if you have the other cards in hand. Don't keep it if you have Zephrys the Great.
+![Mulligan](mulliganpaladin.png)
+
+### Priest
+![Mulligan](mulliganpriest.png)
+
+### Rogue
+![Mulligan](mulliganrogue.png)
+
+### Shaman
+Only keep Mass Dispell if you have the other cards in hand. Don't keep it if you have Zephrys the Great.
+![Mulligan](mulliganshaman.png)
+
+### Warlock
+![Mulligan](mulliganwarlock.png)
+
+### Warrior
+![Mulligan](mulliganwarrior.png)
+
 
 ### Matchups
 Don't play Lorekeeper Polkelt too early. If you play him on turn 4 you will not play any new cards those turns! Be careful versus aggro decks!
