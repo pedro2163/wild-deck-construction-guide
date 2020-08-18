@@ -94,42 +94,90 @@ Dirty Rat, Loatheb and Gluttonous Ooze are the last cards to craft, they are rea
 
 ## Mulligan
 ### Demon Hunter
-![Mulligan](mulligandemonhunter.png)
+![Mulligan](mulligandemonhunter.png) ![Mulligan](mulligandemonhunterthecoin.png)
 
 ### Druid
-Illucia is the card you need here. Try to mulligan for Draw if you don't have her. Don't keep three control cards, keep one, or two if you have The Coin.
-![Mulligan](mulligandruid.png)
+Mindrender Illucia is the card you need here. Try to mulligan for Draw if you don't have her. Don't keep three control cards, keep one, or two if you have The Coin.
+![Mulligan](mulligandruid.png) ![Mulligan](mulligandruidthecoin.png)
 
 ### Hunter
-![Mulligan](mulliganhunter.png)
+![Mulligan](mulliganhunter.png) ![Mulligan](mulliganhunterthecoin.png)
 
 ### Mage
 If you have Breath of the Infinite and Bloodmage Thalnos keep them both, if you don't have them, don't keep any.
-![Mulligan](mulliganmage.png)
+![Mulligan](mulliganmage.png) ![Mulligan](mulliganmagethecoin.png)
 
 ### Paladin
 Only keep Mass Dispell if you have the other cards in hand. Don't keep it if you have Zephrys the Great.
-![Mulligan](mulliganpaladin.png)
+![Mulligan](mulliganpaladin.png) ![Mulligan](mulliganpaladinthecoin.png)
 
 ### Priest
-![Mulligan](mulliganpriest.png)
+![Mulligan](mulliganpriest.png) ![Mulligan](mulliganpriestthecoin.png)
 
 ### Rogue
-![Mulligan](mulliganrogue.png)
+![Mulligan](mulliganrogue.png) ![Mulligan](mulliganroguethecoin.png)
 
 ### Shaman
 Only keep Mass Dispell if you have the other cards in hand. Don't keep it if you have Zephrys the Great.
-![Mulligan](mulliganshaman.png)
+![Mulligan](mulliganshaman.png) ![Mulligan](mulliganshamanthecoin.png)
 
 ### Warlock
-![Mulligan](mulliganwarlock.png)
+![Mulligan](mulliganwarlock.png) ![Mulligan](mulliganwarlockthecoin.png)
 
 ### Warrior
-![Mulligan](mulliganwarrior.png)
+![Mulligan](mulliganwarrior.png) ![Mulligan](mulliganwarriorthecoin.png)
 
 
 ### Matchups
-Don't play Lorekeeper Polkelt too early. If you play him on turn 4 you will not play any new cards those turns! Be careful versus aggro decks!
+### Demon Hunter
+It will be Aggro. Don't play Lorekeeper Polkelt too early. If you play him on turn 4 you will not play any new cards those turns! Be careful versus aggro decks! You can always Mindrender Illucia early in the game to avoid him playing his next turn, or to burn his The Coin or small cards.
+
+### Druid
+If it is Aggro just play normally. He will went out of ressources. Don't be scared of playing Dirty Rat (but be careful after Embiggen). You can always Mindrender Illucia early in the game to avoid him playing his next turn, or to burn his The Coin or small cards. DON'T use Lorekeeper Polkelt, just control him.
+
+If it is Jade it is easy. Just be careful of Naturalize! Don't be afraid of the armour if you are not playing with Dragons. Just use Seance on Spawn of Shadows and kill him over three turns (first turn Spawn of Shadows and Seance, second turn Reno Jackson, third turn Spawn of Shadows again).
+
+If it is Malygos, Togwaggle or Linecracker, you just need to Dirty Rat or Mindrender Illucia in the good moment. That moment is after he plays Juicy Psychmelon, Emperor Thaurissan, or when you think he will combo next turn. The deck is easy to beat, you just need to have those two cards. So, DON'T use Lorekeeper Polkelt, it is hard to win by using your combo, **normally** Druids are faster.
+
+### Hunter
+Even and Odd. It will be Aggro. Don't play Lorekeeper Polkelt too early. If you play him on turn 4 you will not play any new cards those turns! Be careful versus aggro decks! You can always Mindrender Illucia early in the game to avoid him playing his next turn, or to burn his The Coin or small cards.
+
+Reno.
+
+### Mage
+Secret. DON'T use Lorekeeper Polkelt, just control him.
+
+Quest.
+
+Reno.
+
+### Paladin
+Mech Handbuff. DON'T use Lorekeeper Polkelt, just control him.
+
+Libram.
+
+### Priest
+Mirror.
+
+### Rogue
+It will be Aggro. DON'T use Lorekeeper Polkelt, just control him.
+
+### Shaman
+Even. DON'T use Lorekeeper Polkelt, just control him.
+
+Reno.
+
+### Warlock
+Zoo and Discard. DON'T use Lorekeeper Polkelt, just control him.
+
+Cube and Reno.
+
+### Warrior
+Pirate. DON'T use Lorekeeper Polkelt, just control him.
+
+Dead Man's Hand.
+
+Odd. Don't be afraid of the armour if you are not playing with Dragons. Just use Seance on Spawn of Shadows and kill him over three turns (first turn Spawn of Shadows and Seance, second turn Reno Jackson, third turn Spawn of Shadows again).
 
 ## Combos
 If you play versus another Razakus, play Mindrender Illucia and see a Pyschic Scream, don't forget that you will send the minions to **your** deck!
