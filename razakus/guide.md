@@ -5,15 +5,10 @@
 ## How to build the deck?
 ### Start by including all the core cards.
 This deck has 22 core cards.
-![Core cards](core.png)
-
-|For the 22th card you need to make a choice:|
-|:---:|
-|Forbidden Words|
-|Shadow Word: Pain|
+![Core cards](core.png) ![Core cards](core2.png)
 
 ### Choose your package
-After, choose a package. There are two packages right now: the normal and the dragon. Togwaggle and Gadgetzan  packages are okay but aren't the bests. Velen and Quest packages are not good in this meta.
+After, choose a package. There are two packages right now: the normal and the dragon. Togwaggle package is okay. Gadgetzan, Velen and Quest packages are not good in this meta.
 |Normal|Dragon|
 |:--:|:---:|
 |Raise Dead|Cleric of Scales|
@@ -34,7 +29,7 @@ After, choose a package. There are two packages right now: the normal and the dr
 |Add Loatheb|
 
 |Choose the last card in the normal version|why?|
-|:---|---:|
+|:---:|:---:|
 |Sphere of Sapience||
 |Mo'arg Artificier|Great with Holy Smite, Spirit Lash and Holy Nova, great vs Aggro|
 |Holy Nova|Great vs Aggro|
@@ -53,7 +48,7 @@ After, choose a package. There are two packages right now: the normal and the dr
 |Renew|Forbidden Words or Shadow Word: Pain|
 |Breath of the Infinite|           Draconic Studies           |
 |Gluttonous Ooze|          Twilight Guardian           |
-||Mass Hysteria or Dragonfire Potion|
+||Mass Hysteria (you can replace it with Dragonfire Potion, but you need at least one of those two cards)|
 
 ### Possible cards
 |Normal|Dragon|
@@ -71,6 +66,8 @@ The past versions of the normal deck had Dragonfire Potion or Soul Mirror. Now, 
 You can consider Brann Bronzebeard. If you do, you can consider Coldlight Oracle, Zola the Gorgon and/or Cobalt Spellkin too,
 
 You can consider Witchwood Piper: you need to remove every 1-mana and 2-mana minions but Zephrys the Great. It is not recommended if you see lot of aggro decks
+
+Skullking Geist is good versus Jade Druid but the deck is not that played in this meta right now.
 
 ## Building the deck: Budget to Final
 I recommend you to build the Dragon Budget version because dragons are cheap and strong.
@@ -211,7 +208,7 @@ Versus Combo: the 1 mana potion with draw and face damage or the add-a-random-de
 If Anduin and Polkelt are your last cards in your deck and you are playing versus Jade Druid or Cube Warlock, you should go for the 10 mana potion to control the board.
 
 How to count Spawn of Shadows damage?
-2 + 6(this is when you play Spawn of Shadows) + 6 for every other card you play. So, 6 times 5 = 30, 30+2 = 32. If you play Spawn of Shadows and four other cards you can make 32 damage.
+2 + 6 (this is when you play Spawn of Shadows) + 6 for every other card you play. So, 6 times 5 + 2 = 30 + 2 = 32. If you play Spawn of Shadows and four other cards you can make 32 damage.
 
 ## Deck codes
 ### Normal version
@@ -222,14 +219,7 @@ AAEBAa0GHvsBlwKcAu0F0wrWCtcK8gz6DvcTwxaDuwK1uwLYuwLRwQLfxALTxQLwzwLo0AKQ0wKXhwPm
 AAEBAa0GHpwC7QXTCtYK1wryDPoO7hH3E8MWg7sCtbsCursC2LsC6r8C0cEC38QC8M8C6NACkNMCy+YCl4cD/KMDmakD8qwD57ADmLYD3swD+9ED9tYDAAA=
 ### Togwaggle version
 ![Togwaggle version](togwaggle.png)
-### Gadgetzan version
-![Gadgetzan version](gadgetzan.png)
-### Velen version
-![Velen version](velen.png)
-### Quest N'zoth version
-![Quest N'zoth version](questnzoth.png)
-### Quest version
-![Quest version](quest.png)
+AAEBAa0GHpcCnALtBdMK1gryDMMWg7sCtbsC2LsC0cEC38QC08UCnccC8M8C6NACkNMC/esCl4cD5ogDmJsD/KMDmakD8qwDjrED6b4D184D+9EDptUD9tYDAAA=
 
 ## Contact
 You can contact me on my Twitter account.
