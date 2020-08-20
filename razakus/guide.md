@@ -104,13 +104,13 @@ When I say *mulligan for your combo* it is: mulligan for Lorekeeper Polkelt, Raz
 ### Demon Hunter
 Assume the opponent is playing Odd.
 
-Odd and Aggro. You need to mulligan for small removal spells (0, 1, 2 or 3 mana), Gluttonous Ooze, Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana.
+Odd and Aggro. You need to mulligan for small removal spells (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Holy Nova and Zilliax if you have The Coin. Don't keep any card that costs more than 4 mana.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. If during your turn 4 the only card you can play is Mass Dispell to silence one 1-drop minion, do it. It is worth it!
 
 ### Druid
 Assume the opponent is playing Malygos but keep one small removal in case.
 
-Odd and Aggro. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova, Mass Dispell and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana.
+Odd and Aggro. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Duskbreaker, Holy Nova, Mass Dispell and Zilliax if you have The Coin. Don't keep any card that costs more than 4 mana.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. Be careful with Dirty Rat, don't play him after the oponent plays Embiggen.
 
 Jade. Mulligan for Draw and your combo.
@@ -122,7 +122,7 @@ You just need to Dirty Rat or Mindrender Illucia in the good moment. That moment
 ### Hunter
 Assume the opponent is playing Even.
 
-Even and Odd. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana. You can keep Reno Jackson in the Odd Hunter matchup, but if you don't know what's the Hunter deck the opponent is playing, don't keep him (unless you have The Coin or a crazy hand).
+Even and Odd. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Duskbreaker, Holy Nova and Zilliax if you have The Coin. Don't keep any card that costs more than 4 mana. You can keep Reno Jackson in the Odd Hunter matchup, but if you don't know what's the Hunter deck the opponent is playing, don't keep him (unless you have The Coin or a crazy hand).
 The strategy is simple: you need to control the opponent. You win when you controlled all his board.
 
 Reno. 
@@ -130,8 +130,8 @@ Reno.
 ### Mage
 Assume the opponent is playing Quest.
 
-Secret. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Gluttonous Ooze, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand). Reno Jackson could be a good choice if you have The Coin or if you have a crazy hand! 
-Try to Mass Dispell or Potion of Madness his Mad Scientist and be careful of Duplicate. You don't want him to Duplicate his Battlecry burst minions! Sometimes it is okay to don't destroy the opponent's Aluneth. If you have the adventage and your opponent has few cards in his deck you should let Aluneth destroy him. Save Anduin for his 5-5 minions, normally the regular Priest hero power is better than the DK hero power.
+Secret. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker. Don't keep any card that costs more than 4 mana. Reno Jackson could be a good choice if you have The Coin or if you have a crazy hand! 
+Try to Mass Dispell or Potion of Madness his Mad Scientist and be careful of Duplicate. You don't want him to Duplicate his Battlecry burst minions! Sometimes it is okay to don't destroy the opponent's Aluneth. If you have the adventage and your opponent has few cards in his deck you should let Aluneth destroy him. Save Anduin for his 5-5 minions, normally the regular Priest hero power is better than the DK hero power. Try to Dirty Rat when you can destroy the minion that will be pulled. Sometimes I Dirty Rat on turn two if I'm sure the opponent plays Secret. 
 
 Quest and RQM. 
 If you Zephrys to destroy Ice Block, I recommend you to play Mindrender Illucia after to prevent the opponent's Reno Jackson.
@@ -146,7 +146,7 @@ Mech Handbuff.
 
 Libram.
 
-Murloc and Aggro. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana.
+Murloc and Aggro. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Holy Nova and Zilliax if you have The Coin. Don't keep any card that costs more than 4 mana.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. 
 
 OTK.
@@ -162,7 +162,7 @@ Combo.
 ### Rogue
 Assume the opponent is playing Kingsbane.
 
-Odd and Aggro. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Gluttonous Ooze, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana.
+Odd and Aggro. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Holy Nova and Zilliax if you have The Coin. Don't keep any card that costs more than 4 mana.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. You can Mindrender Illucia their Secret Passages.
 
 Kingsbane. Same mulligan than Odd and Aggro Rogue. 
@@ -171,14 +171,14 @@ You can Mindrender Illucia their Secret Passages but the priority is Kingsbane. 
 ### Shaman
 Assume the opponent is playing Even.
 
-Even. You need to mulligan for small removal spells (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Mo'arg, Panthara, Loot Hoarder, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), keep Thalnos if you have Spirit Lash or Shadow Visions. Shadow Word: Ruin is worth keeping. Keep Mass Dispell if you have The Coin or small removal in your hand. Don't keep any card that costs more than 4 mana. The only exception could be Pyschic Scream if you have The Coin and a good hand.
+Even. You need to mulligan for small removal spells (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Loot Hoarder, Mo'arg, Panthara, Renew or Shadow Visions (only if you have another removal in hand), keep Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Mass Dispell if you have The Coin or small removals in your hand, Shadow Word: Ruin. Don't keep any card that costs more than 4 mana. The only exception could be Pyschic Scream if you have The Coin and a good hand.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. Use your minions early (except Zephrys) to control his unbuffed totems. Don't be afraid of playing, for example Mo'arg, to control his totems early. Try to save your Forbidden Words or Shadow Word: Pain for Vessina, but if you see a Totem Golem or a super buffed totem, use it before. If you have lots of Draw or a big hand you can destroy a 0 mana minion with Forbidden Words.
 
-Odd, Totem and Overload. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana.
+Odd, Totem and Overload. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Loot Hoarder, Mo'arg, Panthara, Renew or Shadow Visions (only if you have another removal in hand), keep Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Holy Nova. Don't keep any card that costs more than 4 mana. You can keep Reno Jackson if you have The Coin or a good hand.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board.
 
-Big. Mulligan for your combo, Shadow Word: Ruin and Shadow Word: Death. 
-Be careful of his Devolve, try to kill your deathrattle minions when you play them!
+Big. Mulligan for your combo, Shadow Word: Ruin and Shadow Word: Death. You can keep Psychic Scream if you have The Coin.
+Be careful of his Devolve, try to kill your deathrattle minions when you play them! Be careful of Ancestors Call, he can cancel your Battlecries!
 
 Reno. Mulligan for you combo. The matchup is easy if you draw them.
 Be careful of Coldlight Oracle and his possible Evolves (so always clear the board).
@@ -186,7 +186,7 @@ Be careful of Coldlight Oracle and his possible Evolves (so always clear the boa
 ### Warlock
 Assume the opponent is playing Zoo.
 
-Zoo, Even and Discard. You need to mulligan for small removal spells (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), keep Thalnos if you have Spirit Lash or Shadow Visions. Shadow Word: Ruin is worth keeping. Don't keep any card that costs more than 4 mana.
+Zoo, Even and Discard. You need to mulligan for small removal spells (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Shadow Word: Ruin. Don't keep any card that costs more than 4 mana. 
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. Versus Even Warlock don't be afraid of healing your opponent! It will prevent Molten Giant.
 
 Cube. This matchup is super easy if you draw your combo so mulligan for it! 
@@ -198,7 +198,7 @@ Be careful of Gnomeferatu after you play Lorekeeper Polkelt. Don't pop his Void 
 ### Warrior
 Assume the opponent is playing Pirate.
 
-Pirate, Bomb and Galakrond. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Zephrys the Great, Cleric of Scales, Northshire Cleric, Twilight Whelp, Gluttonous Ooze, Duskbreaker, Shadow Visions or Renew (only if you have another removal in hand), Holy Nova and Zilliax if you have The Coin, keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions. Don't keep any card that costs more than 4 mana.
+Pirate, Bomb and Galakrond. You need to mulligan for small removal spells except Shadow Word: Death (0, 1, 2 or 3 mana), Cleric of Scales, Northsire Cleric, Twilight Whelp, Renew or Shadow Visions (only if you have another removal in hand), keep Mo'arg or Thalnos if you have Spirit Lash or Shadow Visions, Zephrys the Great, Gluttonous Ooze (or it's variants), Duskbreaker, Holy Nova and Zilliax if you have The Coin. Don't keep any card that costs more than 4 mana.
 The strategy is simple: you need to control the opponent. You win when you controlled all his board. Versus Bomb Warrior or if your opponent has Wrenchcalibur you NEED to play Zephrys, Kazakus, Raza and Reno ASAP. Without their Battlecry those minions are useless. Be careful with the Bombs and Lorekeeper Polkelt.
 
 Dead Man's Hand.
