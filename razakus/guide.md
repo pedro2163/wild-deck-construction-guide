@@ -231,9 +231,11 @@ How to count Spawn of Shadows damage?
 ### Normal version
 ![Normal version](normal.png)
 AAEBAa0GHvsBlwKcAu0F0wrWCtcK8gz6DvcTwxaDuwK1uwLYuwLRwQLfxALTxQLwzwLo0AKQ0wKXhwPmiAP8owOZqQPyrAOTugPXzgP70QOm1QP21gMAAA==
+
 ### Dragon version
 ![Dragon version](dragon.png)
-AAEBAa0GHpwC7QXTCtYK1wryDPoO7hH3E8MWg7sCtbsCursC2LsC6r8C0cEC38QC8M8C6NACkNMCy+YCl4cD/KMDmakD8qwD57ADmLYD3swD+9ED9tYDAAA=
+AAEBAa0GHpwC7QXTCtYK1wryDPoO7hH3E4kUwxaDuwK1uwK6uwLYuwLRwQLfxALwzwLo0AKQ0wLL5gKXhwP8owOZqQPyrAPnsAOYtgPezAP70QP21gMAAA==
+
 ### Togwaggle version
 ![Togwaggle version](togwaggle.png)
 AAEBAa0GHpcCnALtBdMK1gryDMMWg7sCtbsC2LsC0cEC38QC08UCnccC8M8C6NACkNMC/esCl4cD5ogDmJsD/KMDmakD8qwDjrED6b4D184D+9EDptUD9tYDAAA=
